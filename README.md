@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rede D'Or São Luiz**
 
-- 🌱 I’m currently learning **Python, SQL and Power B.I**
+- 🌱 I’m currently learning **Python, SQL and Power BI**
 
 - 📫 How to reach me **cilmara_lopes@hotmail.com**
 
