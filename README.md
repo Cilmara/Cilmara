@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Cilmara S. Lopes</h1>
-<h3 align="center">A production engineer passionate about statistics</h3>
+<h1 align="center"> Oi 👋, eu me chamo Cilmara </h1>
+<h3 align="center">Engenheira de Produção e entusiasta em ciência de dados</h3>
 
-- 🔭 I’m currently working on **Rede D'Or São Luiz**
+- 🔭 Atualmente estou trabalhando na **Rede D'Or São Luiz**
 
-- 🌱 I’m currently learning **Python, SQL and Power BI**
+- 🌱 E estudando **Python, SQL and Power BI**
 
-- 📫 How to reach me **cilmara_lopes@hotmail.com**
+- 📫 Você pode me achar **cilmara_lopes@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cilmaralopes/](https://www.linkedin.com/in/cilmaralopes/)
+- 📄 Sobre minhas experiências [https://www.linkedin.com/in/cilmaralopes/](https://www.linkedin.com/in/cilmaralopes/)
 
-- ⚡ Fun fact **I love comic books!**
+- ⚡ Uma curiosidade **Eu amo quadrinhos!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
