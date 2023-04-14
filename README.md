@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, SQL and Power B.I**
 
-- 📫 How to reach me **cilmara.s.lopes@gmail.com**
+- 📫 How to reach me **cilmara_lopes@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cilmaralopes/](https://www.linkedin.com/in/cilmaralopes/)
 
