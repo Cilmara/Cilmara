@@ -1,5 +1,5 @@
 <h1 align="center"> Oi 👋, eu me chamo Cilmara </h1>
-<h3 align="center">Engenheira de Produção e entusiasta em ciência de dados</h3>
+<h3 align="center">Engenheira de Produção e Entusiasta em Ciência de Dados</h3>
 
 - 🔭 Atualmente estou trabalhando na **Rede D'Or São Luiz**
 
